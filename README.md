@@ -6,15 +6,13 @@
 **Team Member Information**  <br><br>
 
 Name: Connor Hale  
-OtterID: hale9103  
-Email Address: cohale@csumb.edu  
+Email Address: connor.a.h.h@gmail.com  
 
 <img src="https://i.imgur.com/N5UN0u9.jpg" alt="alt text" width="100" height="95">
 
 <br>
 
 Name: Cathy Hsu    
-Otter ID: hsu2269   
 Email Address: chsu@csumb.edu
 
 <img src="https://avatars1.githubusercontent.com/u/45910556?s=400&u=9153a8a4be63a1f5619a6f382efa20421557c4ab&v=4" alt="alt text" width="100" height="100">
